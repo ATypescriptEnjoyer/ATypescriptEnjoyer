@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/SashaRyder/SashaRyder/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/SashaRyder/SashaRyder/master/github-metrics.svg?raw=true)
