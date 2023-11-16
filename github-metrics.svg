@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            450 Commits
+                            451 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.26633457910003" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="354.26633457910003" y="0" width="56.195054981182" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="410.46138956028204" y="0" width="17.705755337027675" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="428.16714489730975" y="0" width="9.164407015919688" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.3315519132295" y="0" width="8.330839169851217" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.66239108308065" y="0" width="6.2632521612430665" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="451.9256432443237" y="0" width="5.761175737268588" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.6868189815923" y="0" width="2.3131810184077155" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.29635920479376" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="354.29635920479376" y="0" width="56.1790975707874" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.47545677558116" y="0" width="17.700727528008645" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="428.1761843035898" y="0" width="9.161804648081002" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.3379889516708" y="0" width="8.328473505833108" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.66646245750394" y="0" width="6.261473618893116" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="451.92793607639703" y="0" width="5.759539766886038" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.68747584328304" y="0" width="2.3125241567169477" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -288,6 +288,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SashaRyder/daisy-discord-bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0fc99c</div>
+                                        <div class="message">Updated status renderer</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -357,26 +377,6 @@
                                     <div class="commit">
                                         <div class="sha">#e0ce6fe</div>
                                         <div class="message">added posting times to allow a slow down</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SashaRyder/daisy-discord-bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#11ed03e</div>
-                                        <div class="message">Basically rewriten how the reddit posting stuff works.</div>
                                     </div>
                                 </div>
                             </section>
@@ -795,7 +795,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.32m out of 48.8m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 44.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -841,7 +841,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 48.8m repositories</span>
+                                    <span class="gh">ranked 5.08m out of 44.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -893,7 +893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2023, 12:23:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 18:15:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
