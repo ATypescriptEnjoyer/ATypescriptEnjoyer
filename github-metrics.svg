@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            479 Commits
+                            480 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.4414815889565" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="356.4414815889565" y="0" width="55.878527531065075" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="412.32000912002155" y="0" width="17.44230031816439" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="429.762309438186" y="0" width="9.378439439947767" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.14074887813376" y="0" width="8.206879398078579" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="447.34762827621233" y="0" width="5.675451596521956" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.0230798727343" y="0" width="4.62188183353888" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.6449617062732" y="0" width="2.355038293726876" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.7139040058711" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="356.7139040058711" y="0" width="55.7315327327886" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.4454367386597" y="0" width="17.39641637078727" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="429.84185310944696" y="0" width="9.353768392328325" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.19562150177524" y="0" width="8.185290271898952" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="447.3809117736742" y="0" width="5.660521678010864" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.04143345168507" y="0" width="4.609723449669493" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.65115690135457" y="0" width="2.348843098645415" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -288,6 +288,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SashaRyder/daisy-discord-bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#063fd13</div>
+                                        <div class="message">Added funny warn command</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -364,26 +384,6 @@
                                     <div class="commit">
                                         <div class="sha">#49ced02</div>
                                         <div class="message">Added isAdmin check</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SashaRyder/daisy-discord-bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d13356</div>
-                                        <div class="message">Fixed an issue where force doesnt respond</div>
                                     </div>
                                 </div>
                             </section>
@@ -802,7 +802,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 73m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 71.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -848,7 +848,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.14m out of 73m repositories</span>
+                                    <span class="gh">ranked 5.14m out of 71.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2024, 12:20:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2024, 18:14:34 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
