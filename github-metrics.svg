@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1497" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1530" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            612 Commits
+                            613 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.3033195538166" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="363.3033195538166" y="0" width="51.93232429939745" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="415.235643853214" y="0" width="15.839229037214105" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="431.07487289042814" y="0" width="9.365005046738208" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.43987793716633" y="0" width="8.912610257701274" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.3524881948676" y="0" width="5.1538372856312655" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.50632548049884" y="0" width="3.3550809713265273" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.86140645182536" y="0" width="2.1385935481745864" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.97365383626874" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="363.97365383626874" y="0" width="51.57231176137983" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="415.5459655976486" y="0" width="15.72942611345019" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="431.2753917110988" y="0" width="9.300083646032421" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.5754753571312" y="0" width="8.850825011565583" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.4263003686968" y="0" width="5.118109132371015" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.5444095010678" y="0" width="3.331822408725356" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.87623190979315" y="0" width="2.1237680902068723" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -288,6 +288,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SashaRyder/ADHD-Planner</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#edf02d3</div>
+                                        <div class="message">Started configuring MariaDB</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -359,20 +379,6 @@
                       branch
                                         <span class="code">master</span>
                                         in
-                                        <span class="repo">SashaRyder/ADHD-Planner</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
                                         <span class="repo">SashaRyder/ADHD-Planner</span>
                                     </div>
                                 </div>
@@ -650,7 +656,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 380k out of 137m users</span>
+                                    <span class="gh">ranked 381k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -792,7 +798,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.51m out of 202m repositories</span>
+                                    <span class="gh">ranked 2.51m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -838,7 +844,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.26m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.26m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -890,7 +896,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2024, 13:21:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2024, 19:15:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
