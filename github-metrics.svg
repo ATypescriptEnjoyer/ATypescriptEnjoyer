@@ -302,7 +302,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9c33a2</div>
+                                        <div class="sha">#4fd5cd0</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -322,7 +322,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c87f9b</div>
+                                        <div class="sha">#601cdb2</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6f9010</div>
+                                        <div class="sha">#ba50452</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -362,7 +362,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09066ea</div>
+                                        <div class="sha">#0eb69d6</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a3b9c7e</div>
+                                        <div class="sha">#4dd1efd</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -802,7 +802,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.62m out of 222m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -848,7 +848,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.38m out of 222m repositories</span>
+                                    <span class="gh">ranked 5.38m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Sept 2024, 02:13:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 07:19:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
