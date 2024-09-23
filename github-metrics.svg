@@ -302,7 +302,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#28d488a</div>
+                                        <div class="sha">#09bc30f</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -322,7 +322,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f604d94</div>
+                                        <div class="sha">#34fe33b</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00a777a</div>
+                                        <div class="sha">#6a1cd17</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -362,7 +362,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2d7ffe</div>
+                                        <div class="sha">#d5498f6</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/sentry</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c493a7c</div>
+                                        <div class="sha">#d33da5a</div>
                                         <div class="message">Update sentry</div>
                                     </div>
                                 </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Sept 2024, 02:08:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 07:21:27 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
