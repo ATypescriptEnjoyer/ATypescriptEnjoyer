@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            753 Commits
+                            754 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.72032162316583" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="381.72032162316583" y="0" width="18.76255905018046" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="400.48288067334624" y="0" width="17.345912124970386" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="417.8287927983166" y="0" width="14.471593205222893" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.30038600353953" y="0" width="10.11139755577542" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.4117835593149" y="0" width="7.13451596270955" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="449.54629952202447" y="0" width="6.105043129276348" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.6513426513008" y="0" width="4.348657348699154" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.7480191233994" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="381.7480191233994" y="0" width="18.755920341457436" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="400.50393946485684" y="0" width="17.339774664839023" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="417.84371412969585" y="0" width="14.466472758071168" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="432.3101868877671" y="0" width="10.107819865601284" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.41800675336833" y="0" width="7.13199157500585" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="449.5499983283742" y="0" width="6.102882997336543" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.6528813257107" y="0" width="4.3471186742892804" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -704,7 +704,7 @@ Reviewed-on: https://git.sashie.me/sasha/MonzoDash/pulls/63</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 393k out of 148m users</span>
+                                    <span class="gh">ranked 394k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 37 users</div>
                             </div>
@@ -944,7 +944,7 @@ Reviewed-on: https://git.sashie.me/sasha/MonzoDash/pulls/63</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2024, 18:20:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 01:14:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
