@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            755 Commits
+                            758 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.6831525962902" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="381.6831525962902" y="0" width="18.752733340204404" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="400.43588593649457" y="0" width="17.336828294702126" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="417.7727142311967" y="0" width="14.464014618669445" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.23672884986615" y="0" width="10.106102347399531" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.3428311972657" y="0" width="7.13077970879655" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="449.4736109060622" y="0" width="6.101845996997156" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.5754569030594" y="0" width="4.424543096940609" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.96242260337345" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.96242260337345" y="0" width="19.16475695680023" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="399.12717956017366" y="0" width="17.717742509429932" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="416.84492206960357" y="0" width="14.781809123905772" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="431.62673119350933" y="0" width="10.328147462814034" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.9548786563234" y="0" width="7.287452850330937" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="449.2423315066543" y="0" width="6.2359120347306245" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.4782435413849" y="0" width="4.5217564586150445" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -545,7 +545,7 @@ Reviewed-on: https://git.sashie.me/sasha/MonzoDash/pulls/62</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.78m out of 147m users</span>
+                                    <span class="gh">ranked 2.78m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 22 public repositories</div>
                             </div>
@@ -702,7 +702,7 @@ Reviewed-on: https://git.sashie.me/sasha/MonzoDash/pulls/62</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 394k out of 147m users</span>
+                                    <span class="gh">ranked 394k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 37 users</div>
                             </div>
@@ -942,7 +942,7 @@ Reviewed-on: https://git.sashie.me/sasha/MonzoDash/pulls/62</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 18:20:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2024, 01:08:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
