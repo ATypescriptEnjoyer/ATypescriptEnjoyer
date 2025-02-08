@@ -302,7 +302,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac72aa1</div>
+                                        <div class="sha">#2da3067</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -322,7 +322,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09a74a0</div>
+                                        <div class="sha">#eeb8e37</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f7100ce</div>
+                                        <div class="sha">#7851fbe</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -362,7 +362,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#866c3b9</div>
+                                        <div class="sha">#b10c73e</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#781bd11</div>
+                                        <div class="sha">#35ed864</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2025, 01:07:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 06:19:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
