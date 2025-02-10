@@ -302,7 +302,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b261082</div>
+                                        <div class="sha">#a1f2df8</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -322,7 +322,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#54d65b3</div>
+                                        <div class="sha">#d691b1d</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8f0ba9</div>
+                                        <div class="sha">#27b13db</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -362,7 +362,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#666294d</div>
+                                        <div class="sha">#a353ab4</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#accf598</div>
+                                        <div class="sha">#34eaac2</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -410,7 +410,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.25462012320330984 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3394934976043764 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -802,7 +802,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.76m out of 239m repositories</span>
+                                    <span class="gh">ranked 2.76m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -848,7 +848,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.55m out of 239m repositories</span>
+                                    <span class="gh">ranked 5.55m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2025, 06:21:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2025, 12:29:50 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
