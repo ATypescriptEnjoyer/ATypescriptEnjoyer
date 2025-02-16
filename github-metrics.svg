@@ -302,7 +302,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c5627d</div>
+                                        <div class="sha">#492de75</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -322,7 +322,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b785d49</div>
+                                        <div class="sha">#957a477</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#85a6163</div>
+                                        <div class="sha">#98846c0</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -362,7 +362,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59edcf8</div>
+                                        <div class="sha">#abcdcda</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5fbf65</div>
+                                        <div class="sha">#5262f94</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -410,7 +410,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098745 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Feb 2025, 06:19:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2025, 12:28:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
