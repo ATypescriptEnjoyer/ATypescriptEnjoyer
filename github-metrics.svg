@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="870" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1309" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            869 Commits
+                            874 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            113 issue comments
+                            114 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    249 MB used
+                                    250 MB used
                                 </div>
                             </section>
                             <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.68506163985006" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="380.68506163985006" y="0" width="18.22022544893568" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="398.90528708878577" y="0" width="17.75958428623625" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="416.664871375022" y="0" width="16.844526841414403" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.5093982164364" y="0" width="9.705833795688594" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.215232012125" y="0" width="6.928292082222553" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="450.1435240943475" y="0" width="5.928576261553243" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.0721003559008" y="0" width="3.9278996440992198" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.6487535137846" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.6487535137846" y="0" width="17.769126205904477" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="400.4178797196891" y="0" width="17.31988967046309" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="417.7377693901522" y="0" width="16.427487363572777" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.165256753725" y="0" width="9.465535217029814" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.6307919707548" y="0" width="6.756760323598115" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.3875522943529" y="0" width="5.781795626410463" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.16934792076336" y="0" width="3.830652079236667" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -292,16 +292,40 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#4090 [Linux] Mouse not grabbed when running in Wayland</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ValveSoftware/csgo-osx-linux</span></div>
+                                    <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4faf9eb</div>
+                                        <div class="message">Update all dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4e293e</div>
+                                        <div class="message">whitespace</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4090 [Linux] [KDE] Mouse not grabbed when running in Wayland</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ATypescriptEnjoyer in <span class="repo">ValveSoftware/csgo-osx-linux</span></div>
+                                    <div class="comment">A temp workaround would be using gamescope. I've found it works for me but ideally I'm wanting to run natively in wayland. You will need I think it's 3.14.2 of gamescope, as a recent update as broken forced cursor grabbing</div>
                                 </div>
                             </section>
                         </div>
@@ -312,15 +336,246 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 1758 commits in
                                         <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2e4c795</div>
-                                        <div class="message">Update all dependencies</div>
+                                        <div class="sha">#c8f83b6</div>
+                                        <div class="message">Bump plop from 4.0.0 to 4.0.1 in /api
+
+Bumps [plop](https://github.com/plopjs/plop/tree/HEAD/packages/plop) from 4.0.0 to 4.0.1.
+- [Release notes](https://github.com/plopjs/plop/releases)
+- [Changelog](https://github.com/plopjs/plop/blob/main/packages/plop/CHANGELOG.md)
+- [Commits](https://github.com/plopjs/plop/commits/plop@4.0.1/packages/plop)
+
+---
+updated-dependencies:
+- dependency-name: plop
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6a63e5</div>
+                                        <div class="message">Merge pull request #316 from SashaRyder/dependabot/npm_and_yarn/client/styled-components-6.1.3
+
+Bump styled-components from 6.1.2 to 6.1.3 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1069414</div>
+                                        <div class="message">Bump styled-components from 6.1.2 to 6.1.3 in /client
+
+Bumps [styled-components](https://github.com/styled-components/styled-components) from 6.1.2 to 6.1.3.
+- [Release notes](https://github.com/styled-components/styled-components/releases)
+- [Commits](https://github.com/styled-components/styled-components/compare/v6.1.2...v6.1.3)
+
+---
+updated-dependencies:
+- dependency-name: styled-components
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbc2dbd</div>
+                                        <div class="message">Merge pull request #315 from SashaRyder/dependabot/npm_and_yarn/client/emotion/react-11.11.3
+
+Bump @emotion/react from 11.11.1 to 11.11.3 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4d393e</div>
+                                        <div class="message">Bump @emotion/react from 11.11.1 to 11.11.3 in /client
+
+Bumps [@emotion/react](https://github.com/emotion-js/emotion) from 11.11.1 to 11.11.3.
+- [Release notes](https://github.com/emotion-js/emotion/releases)
+- [Changelog](https://github.com/emotion-js/emotion/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/emotion-js/emotion/compare/@emotion/react@11.11.1...@emotion/react@11.11.3)
+
+---
+updated-dependencies:
+- dependency-name: "@emotion/react"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e56858</div>
+                                        <div class="message">Merge pull request #314 from SashaRyder/dependabot/npm_and_yarn/client/react-router-dom-6.21.1
+
+Bump react-router-dom from 6.21.0 to 6.21.1 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a197bdf</div>
+                                        <div class="message">Bump react-router-dom from 6.21.0 to 6.21.1 in /client
+
+Bumps [react-router-dom](https://github.com/remix-run/react-router/tree/HEAD/packages/react-router-dom) from 6.21.0 to 6.21.1.
+- [Release notes](https://github.com/remix-run/react-router/releases)
+- [Changelog](https://github.com/remix-run/react-router/blob/main/packages/react-router-dom/CHANGELOG.md)
+- [Commits](https://github.com/remix-run/react-router/commits/react-router-dom@6.21.1/packages/react-router-dom)
+
+---
+updated-dependencies:
+- dependency-name: react-router-dom
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d1bc8e</div>
+                                        <div class="message">Merge pull request #312 from SashaRyder/dependabot/npm_and_yarn/api/eslint-plugin-prettier-5.1.1
+
+Bump eslint-plugin-prettier from 5.1.0 to 5.1.1 in /api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c85574a</div>
+                                        <div class="message">Bump eslint-plugin-prettier from 5.1.0 to 5.1.1 in /api
+
+Bumps [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) from 5.1.0 to 5.1.1.
+- [Release notes](https://github.com/prettier/eslint-plugin-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-plugin-prettier/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-plugin-prettier/compare/v5.1.0...v5.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4f2b54</div>
+                                        <div class="message">Merge pull request #311 from SashaRyder/dependabot/npm_and_yarn/api/sentry/integrations-7.90.0
+
+Bump @sentry/integrations from 7.89.0 to 7.90.0 in /api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78fdec1</div>
+                                        <div class="message">Bump @sentry/integrations from 7.89.0 to 7.90.0 in /api
+
+Bumps [@sentry/integrations](https://github.com/getsentry/sentry-javascript) from 7.89.0 to 7.90.0.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/7.89.0...7.90.0)
+
+---
+updated-dependencies:
+- dependency-name: "@sentry/integrations"
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4df9f03</div>
+                                        <div class="message">Merge pull request #310 from SashaRyder/dependabot/npm_and_yarn/api/sentry/node-7.90.0
+
+Bump @sentry/node from 7.89.0 to 7.90.0 in /api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28abd81</div>
+                                        <div class="message">Bump @sentry/node from 7.89.0 to 7.90.0 in /api
+
+Bumps [@sentry/node](https://github.com/getsentry/sentry-javascript) from 7.89.0 to 7.90.0.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/7.89.0...7.90.0)
+
+---
+updated-dependencies:
+- dependency-name: "@sentry/node"
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#621de5a</div>
+                                        <div class="message">Merge pull request #309 from SashaRyder/dependabot/docker/node-21.5.0-alpine
+
+Bump node from 21.4.0-alpine to 21.5.0-alpine</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cce375c</div>
+                                        <div class="message">Bump node from 21.4.0-alpine to 21.5.0-alpine
+
+Bumps node from 21.4.0-alpine to 21.5.0-alpine.
+
+---
+updated-dependencies:
+- dependency-name: node
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb2e8e1</div>
+                                        <div class="message">Merge pull request #308 from SashaRyder/dependabot/npm_and_yarn/client/styled-components-6.1.2
+
+Bump styled-components from 6.1.1 to 6.1.2 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59309ba</div>
+                                        <div class="message">Bump styled-components from 6.1.1 to 6.1.2 in /client
+
+Bumps [styled-components](https://github.com/styled-components/styled-components) from 6.1.1 to 6.1.2.
+- [Release notes](https://github.com/styled-components/styled-components/releases)
+- [Commits](https://github.com/styled-components/styled-components/compare/v6.1.1...v6.1.2)
+
+---
+updated-dependencies:
+- dependency-name: styled-components
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adf45c3</div>
+                                        <div class="message">Merge pull request #307 from SashaRyder/dependabot/npm_and_yarn/client/mui/lab-5.0.0-alpha.157
+
+Bump @mui/lab from 5.0.0-alpha.156 to 5.0.0-alpha.157 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f885f56</div>
+                                        <div class="message">Bump @mui/lab from 5.0.0-alpha.156 to 5.0.0-alpha.157 in /client
+
+Bumps [@mui/lab](https://github.com/mui/material-ui/tree/HEAD/packages/mui-lab) from 5.0.0-alpha.156 to 5.0.0-alpha.157.
+- [Release notes](https://github.com/mui/material-ui/releases)
+- [Changelog](https://github.com/mui/material-ui/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/mui/material-ui/commits/HEAD/packages/mui-lab)
+
+---
+updated-dependencies:
+- dependency-name: "@mui/lab"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8f6826</div>
+                                        <div class="message">Merge pull request #305 from SashaRyder/dependabot/npm_and_yarn/api/sentry/integrations-7.89.0
+
+Bump @sentry/integrations from 7.88.0 to 7.89.0 in /api</div>
                                     </div>
                                 </div>
                             </section>
@@ -332,15 +587,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 4 commits in
                                         <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5dae2ac</div>
+                                        <div class="sha">#9ea6005</div>
                                         <div class="message">Update all dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e853224</div>
+                                        <div class="message">redesign modal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95038a1</div>
+                                        <div class="message">Update spending vox and modal UI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da7c541</div>
+                                        <div class="message">Fixed some dodgy migrations</div>
                                     </div>
                                 </div>
                             </section>
@@ -352,35 +619,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c603cca</div>
+                                        <div class="sha">#ae0d278</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f8b55e</div>
-                                        <div class="message">Update all dependencies</div>
+                                        <div class="sha">#4dd54c9</div>
+                                        <div class="message">Refactor finances</div>
                                     </div>
                                 </div>
                             </section>
@@ -408,7 +659,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jun 2025, 13:31:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2025, 19:21:40 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
