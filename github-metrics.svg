@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="950" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="926" class="">
     <defs>
         <style/>
     </defs>
@@ -37,13 +37,13 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            877 Commits
+                            878 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.60552922834694" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.60552922834694" y="0" width="17.319615742813188" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="401.92514497116014" y="0" width="16.88174366732013" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.80688863848025" y="0" width="16.011916706543385" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.81880534502363" y="0" width="9.226082974442884" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.0448883194665" y="0" width="6.585832703023941" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="450.63072102249043" y="0" width="5.635531955399823" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.2662529778903" y="0" width="3.73374702210971" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.73294362999417" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="384.73294362999417" y="0" width="17.290346109986746" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="402.0232897399809" y="0" width="16.85321402521086" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="418.8765037651918" y="0" width="15.984857045993897" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.8613608111857" y="0" width="9.210491170034622" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.0718519812203" y="0" width="6.574702842642722" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.646554823863" y="0" width="5.626008074872353" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.2725628987354" y="0" width="3.7274371012646528" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -295,6 +295,52 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2268da4</div>
+                                        <div class="message">Update all dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7447afe</div>
+                                        <div class="message">allow delete from transactions
+LLM updates</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7447afe</div>
+                                        <div class="message">allow delete from transactions
+LLM updates</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
                                     </div>
@@ -345,47 +391,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ATypescriptEnjoyer/MonzoDash</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4faf9eb</div>
-                                        <div class="message">Update all dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4e293e</div>
-                                        <div class="message">whitespace</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#4090 [Linux] [KDE] Mouse not grabbed when running in Wayland</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ATypescriptEnjoyer in <span class="repo">ValveSoftware/csgo-osx-linux</span></div>
-                                    <div class="comment">A temp workaround would be using gamescope. I've found it works for me but ideally I'm wanting to run natively in wayland. You will need I think it's 3.14.2 of gamescope, as a recent update as broken forced cursor grabbing</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -409,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2025, 19:25:05 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2025, 02:22:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
