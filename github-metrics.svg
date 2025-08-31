@@ -302,15 +302,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2522a22</div>
+                                        <div class="sha">#f56ad3a</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3525730</div>
-                                        <div class="message">Merge pull request 'Update all dependencies' (#128) from renovate/all-dependencies into master</div>
+                                        <div class="sha">#9db026b</div>
+                                        <div class="message">Merge pull request 'Update all dependencies' (#129) from renovate/all-dependencies into master</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#645c7d5</div>
+                                        <div class="sha">#5057827</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -330,11 +330,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3525730</div>
-                                        <div class="message">Merge pull request 'Update all dependencies' (#128) from renovate/all-dependencies into master</div>
+                                        <div class="sha">#9db026b</div>
+                                        <div class="message">Merge pull request 'Update all dependencies' (#129) from renovate/all-dependencies into master</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#645c7d5</div>
+                                        <div class="sha">#5057827</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -386,15 +386,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">renovate/major-all-dependencies</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7d1a832</div>
+                                        <div class="sha">#2522a22</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3147cfd</div>
-                                        <div class="message">Merge pull request 'Update all dependencies' (#127) from renovate/all-dependencies into master</div>
+                                        <div class="sha">#3525730</div>
+                                        <div class="message">Merge pull request 'Update all dependencies' (#128) from renovate/all-dependencies into master</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db73610</div>
+                                        <div class="sha">#645c7d5</div>
                                         <div class="message">Update all dependencies</div>
                                     </div>
                                 </div>
@@ -423,7 +423,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2025, 19:20:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 02:22:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
